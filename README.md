@@ -1,17 +1,23 @@
-# Vibrant Lives Drive
+# 🌟 Vibrant Lives Drive
 
-**Vibrant Lives Drive** is a community-driven nonprofit organization founded by oncologist **Keneilwe Segwale** in 1994, with the mission of improving the lives of children diagnosed with cancer. This website highlights our story, mission, and ways to get involved.
+**Vibrant Lives Drive** is a nonprofit initiative founded by **Dr. Keneilwe Segwale**, a passionate oncologist dedicated to making a difference in the lives of children diagnosed with cancer. Since 1994, the organization has focused on expanding access to cancer care and building community-driven support.
 
-## 🌟 About the Project
+## 🌐 Live Site
 
-This website serves as the official digital presence of Vibrant Lives Drive, featuring:
+🔗 [https://bernard-philips.github.io/Vibrant-Drives/](https://bernard-philips.github.io/Vibrant-Drives/)
 
-- A profile of our founder, Dr. Keneilwe Segwale
-- Our mission and history
-- Opportunities to get involved
-- Contact details and social links
+---
 
-Built using simple and clean HTML and CSS to ensure accessibility and speed.
+## 📖 About the Website
 
-## 📁 Project Structure
+This website showcases:
+
+- The story of **Dr. Keneilwe Segwale**
+- The organization's **mission and vision**
+- Ways to **get involved** or support the cause
+- A simple, responsive layout using HTML & CSS
+
+---
+
+## 🗂️ Project Structure
 
